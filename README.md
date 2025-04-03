@@ -1,16 +1,65 @@
 ## Hi  I'm Drushya 
+These are my public stats:
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Drushya Gowda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drushyagmgowda@gmail.com) 
-
+[<div align="center">![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Drushyagowda17?cardType=github&theme=dark&preferLogin=false&Title=7378D9&Border=7378D9&Text=60CA78)](https://git.io/awesome-stats-card)
 # 💻 Tech Stack:
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Drushyagowda17&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Drushyagowda17&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Drushyagowda17&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="49" alt="c logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=c" height="49" alt="c++ logo"  />
+  <img width="12" /> <img src="https://skillicons.dev/icons?i=c" height="49" alt="java logo"  />
+  <img width="12" />
+   <img src="https://skillicons.dev/icons?i=c" height="49" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="49" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="49" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="49" alt="github logo"  />
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=html" height="49" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="49" alt="css3 logo"  />
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/Drushya Gowda g m ">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="49" alt="linkedin logo" ></a>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="49" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="49" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="49" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="49" alt="git logo"  />
+  <img width="12" />
+ 
+</div>
+<!--
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+</div>
+-->
+<br />
+
+
+### 
 ---
-[![](https://visitcount.itsvg.in/api?id=Drushyagowda17&icon=2&color=13)](https://visitcount.itsvg.in)
+Watch my contribution graph get eaten by a snake:
+<img src="https://raw.githubusercontent.com/alanbennyofficial/Drushyagowda17/output/snake.svg" alt="Snake animation" />
+###
+---
+### Profile view count:
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Drushyagowda17/count.svg?"  />
+</div>
+
+###
