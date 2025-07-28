@@ -1,15 +1,9 @@
-<!-- Animated Banner (Young Guy Coding) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/loficodes/loficodes/main/code.gif" alt="coding" width="80%" />
-</p>
+## Hi 👋 I'm Drushya  
 
----
-
-### 🔥 About Me
-
-- 🧑‍💻 Young coder on a mission
+-🎯 A cybersecurity enthusiast   
+-🚀 Always learning and building cool things  
+-🧑‍💻 Young coder on a mission
 - 🎯 Passionate about coding & automation
-- 💬 Ask me about anything tech-related
 - 🎓 Curious undergrad diving deep into the world of code  
 - 🧠 Currently exploring: Full Stack Web Dev, Java, Python  
 - 💡 I love solving problems and creating fun projects
@@ -17,35 +11,59 @@
 
 ---
 
-### 🌍 Connect with Me
+### 📊 My Public GitHub Stats
 
-- 📬 Email: drushyagmgowda@gmail.com  
-- 💻 GitHub: [Drushyagowda17](https://github.com/Drushyagowda17)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drushyagowda17&show_icons=true&theme=radical" alt="stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drushyagowda17&theme=radical" alt="streak" />
-</p>
+<div align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Drushyagowda17?cardType=github&theme=dark&preferLogin=false&Title=7378D9&Border=7378D9&Text=60CA78" alt="GitHub Stats" />
+  </a>
+</div>
 
 ---
 
-### 🐍 Contribution Snake Animation
+### 💻 Tech Stack
 
-<p align="center">
-  <img src="https://github.com/Drushyagowda17/Drushyagowda17/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="49" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="49" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="49" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="49" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=html,css" height="49" alt="HTML/CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="49" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="49" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=django" height="49" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="49" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="49" alt="PyCharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="49" alt="Eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="49" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="49" alt="Canva" />
+</div>
 
 ---
 
-### 👁️ Profile Views
+### 🔗 Connect with Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Drushyagowda17&label=Profile%20Views&color=0e75b6&style=flat" alt="Drushyagowda17" />
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/drushya-gowda-g-m/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="49" alt="LinkedIn" />
+  </a>
+  <a href="mailto:drushyagowda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 ---
+
+### 🐍 Watch my contributions get eaten by a snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alanbennyofficial/Drushyagowda17/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 👀 Profile Views Count
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Drushyagowda17/count.svg?" alt="Profile Counter" />
+</div>
