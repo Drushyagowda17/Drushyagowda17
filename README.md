@@ -1,36 +1,51 @@
-<h1 align="center">Hey there 👋, I'm Drushya Gowda</h1>
+<!-- Animated Banner (Young Guy Coding) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8f/57/fc/8f57fc3bca263d0c7eb8e7a7c1c94d63.gif" width="280px" /><br>
-  🌐 Frontend Fan | 💻 Backend Builder | 🧠 Tech Learner | 💥 Night Owl Coder
+  <img src="https://raw.githubusercontent.com/loficodes/loficodes/main/code.gif" alt="coding" width="80%" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🔥 About Me
 
-- 🎓 I'm a curious undergrad diving deep into the world of code  
+- 🧑‍💻 Young coder on a mission
+- 🎯 Passionate about coding & automation
+- 💬 Ask me about anything tech-related
+- 🎓 Curious undergrad diving deep into the world of code  
 - 🧠 Currently exploring: Full Stack Web Dev, Java, Python  
-- 💡 I love turning coffee ☕ into code and ideas into apps  
-- 🎯 Goal: To become a full-stack ninja 💻⚔️  
-- 🎮 Fun fact: I debug faster with music on 🎧
+- 💡 I love solving problems and creating fun projects
+- 🌱 Always learning something new
+
+---
+
+### 🌍 Connect with Me
+
+- 📬 Email: drushyagmgowda@gmail.com  
+- 💻 GitHub: [Drushyagowda17](https://github.com/Drushyagowda17)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drushyagowda17&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drushyagowda17&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Drushyagowda17&show_icons=true&theme=radical" alt="stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drushyagowda17&theme=radical" alt="streak" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake Animation
 
-![Snake animation](https://github.com/Drushyagowda17/Drushyagowda17/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Drushyagowda17/Drushyagowda17/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
-### 👀 Visitors
+### 👁️ Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Drushyagowda17&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Drushyagowda17&label=Profile%20Views&color=0e75b6&style=flat" alt="Drushyagowda17" />
+</p>
+
+---
