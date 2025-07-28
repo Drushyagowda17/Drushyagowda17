@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Drushya Gowda</h1>
+<h1 align="center">Hey there 👋, I'm Drushya Gowda</h1>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="290px" /><br>
-  💻 Passionate Learner | ⚡ Tech Explorer | 🚀 Always Building Stuff!
+  <img src="https://i.pinimg.com/originals/8f/57/fc/8f57fc3bca263d0c7eb8e7a7c1c94d63.gif" width="280px" /><br>
+  🌐 Frontend Fan | 💻 Backend Builder | 🧠 Tech Learner | 💥 Night Owl Coder
 </p>
 
 ---
 
-### 🌟 About Me
+### 🚀 About Me
 
-- 🎓 Undergrad student & code enthusiast  
-- 🧠 Learning new tech every day  
-- 💡 I love solving problems and creating fun projects  
-- 🛠️ Currently learning: Full Stack Development  
-
+- 🎓 I'm a curious undergrad diving deep into the world of code  
+- 🧠 Currently exploring: Full Stack Web Dev, Java, Python  
+- 💡 I love turning coffee ☕ into code and ideas into apps  
+- 🎯 Goal: To become a full-stack ninja 💻⚔️  
+- 🎮 Fun fact: I debug faster with music on 🎧
 
 ---
 
@@ -31,6 +31,6 @@
 
 ---
 
-### 📟 Visitor Count
+### 👀 Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Drushyagowda17&color=blue&style=flat-square)
