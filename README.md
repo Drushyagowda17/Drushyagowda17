@@ -53,17 +53,3 @@
 </div>
 
 ---
-
-### 🐍 Watch my contributions get eaten by a snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alanbennyofficial/Drushyagowda17/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-### 👀 Profile Views Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Drushyagowda17/count.svg?" alt="Profile Counter" />
-</div>
