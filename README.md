@@ -1,7 +1,9 @@
 ## Hi 👋 I'm Drushya  
 
--🎯 A cybersecurity enthusiast   
--🚀 Always learning and building cool things  
+-🎯 A cybersecurity enthusiast 
+  
+-🚀 Always learning and building cool things 
+ 
 -🎯 Passionate about codeing & automation
 
 -🎓 Curious undergrad diving deep into the world of code
