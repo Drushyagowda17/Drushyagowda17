@@ -4,7 +4,7 @@
 -🚀 Always learning and building cool things  
 -🧑‍💻 Young coder on a mission
 -🎯 Passionate about codeing & automation
--🎓 Curious undergrad diving deep into the world of code  
+-🎓 Curious undergrad diving deep into the world of code
 -🧠 Currently exploring: Full Stack Web Dev, Java, Python  
 -💡 I love solving problems and creating fun projects
 -🌱 Always learning something new
