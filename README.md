@@ -3,9 +3,13 @@
 -🎯 A cybersecurity enthusiast   
 -🚀 Always learning and building cool things  
 -🎯 Passionate about codeing & automation
+
 -🎓 Curious undergrad diving deep into the world of code
--🧠 Currently exploring: Full Stack Web Dev, Java, Python  
+
+-🧠 Currently exploring: Full Stack Web Dev, Java, Python 
+ 
 -💡 I love solving problems and creating fun projects
+
 -🌱 Always learning something new
 
 ---
