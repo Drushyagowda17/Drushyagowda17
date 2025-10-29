@@ -8,8 +8,6 @@ Aspiring Cybersecurity Student and a Developer
 
 \-🚀 Always learning and building cool things
 
-\-🎯 Passionate about codeing & automation
-
 \-🎓 Curious undergrad diving deep into the world of code
 
 \-🧠 Currently exploring: Full Stack Web Dev, Java, Python
